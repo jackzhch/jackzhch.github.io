@@ -17,7 +17,7 @@ permalink: /:year/:month/:day/:title/
 github_username:  jackzhch
 email: skoody@gmail.com
 
-description_footer: 本站记录我前端之旅的沿途风景！
+#description_footer: 
 
 # comments
 # two ways to comment, only choose one, and use your own short name
